@@ -60,3 +60,19 @@ h3{
     color: rgb(255, 0, 89);
     box-shadow: 2px 2px 15px 5px rgb(204, 9, 44);
 }
+#btn{
+
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    font-weight: bolder;
+    cursor: pointer;
+
+}
+#btn:hover{
+    transform: scale(1.1);
+    transition: all 0.5s ;
+    color: rgb(221, 10, 91);
+    
+}
